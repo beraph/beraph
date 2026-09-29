@@ -1,73 +1,67 @@
-Beraph Mwana Mwamba
+# Bonjour, moi c'est Beraph Mwana Mwamba
 
-About Me
+## About Me 
 
-## Engineer - Application Services at MMG Kinsevere with experience in:
+I am an Application Services Engineer passionate about technology, problem solving and continuous improvement.
 
-- IT Support & Troubleshooting
-- Database Governance
-- SQL Server Administration
-- PowerShell Automation
+My experience covers multiple areas of Information Technology:
+
+### Enterprise Applications
+- Application Services
+- Business Process Automation
 - Digital Transformation
 - IT Asset Management
-- Web Application Development
-- Business Process Automation
 
-Technical Skills
+### Database & Automation
+- SQL Server Administration
+- Database Governance
+- PowerShell Automation
+- Reporting & Monitoring
 
-## Infrastructure & Support
-- Windows Server
+### IT Infrastructure & Support
+- End-User Support 
+- Windows Administration 
 - Active Directory
 - SCCM
+- Software Compliance
+- System Troubleshooting
+
+### Security & Operational Technology
+- CCTV Systems Support
+- Time & Attendance Systems
+- Card Readers & Access Control
+- Fiber Optic Support
+- Fiber Splicing Coordination
 - Network Troubleshooting
-- User Support
-- Hardware & Software Deployment
 
-## Database
-- SQL Server
-- MySQL
-- Backup & Recovery
-- Database Monitoring
-- Governance & Documentation
-
-## Development
+### Development
 - PHP
-- CodeIgniter 3
+- CodeIgniter
 - JavaScript
 - HTML/CSS
-- REST API
-- PWA Development
+- REST APIs
+- Progressive Web Applications (PWA)
 
-## Automation
-- PowerShell
-- Batch Scripting
-- Task Scheduler
-- Process Automation
-
-## Tools
-- Git & GitHub
-- Visual Studio Code
-- Cursor AI
-- Microsoft Copilot
-- ServiceNow
-
-## Projects
+##  Current Projects
 
 - Database Governance Center
 - Smart SafeStart
 - IT Asset Tracker
 - Digital Asset & License Management
-- KSV GO Support
 - OA Support
-- RTMCPro Monitoring
+- KSV GO Support
+- RTMCPro Monitoring Platform
 
-## Currently Learning
+## Beyond Technology
 
-- AI-Assisted Development
-- Cloud Technologies
-- ASP.NET Core
-- Advanced PowerShell
-- Cybersecurity
+- Basketball Coach
+- Bass Singer in a Church Choir
+- Technology Enthusiast
+- Humor Lover 
+
+## Personal Motto
+
+"Technology solves problems, leadership develops people, and humor brings teams together."
 
 ## Connect With Me
 
